@@ -1,5 +1,7 @@
 # Fire and Smoke Detection and Alert System
 
+## 🚀 [Live Site](https://fire-and-smoke-detection-and-alert-system.streamlit.app/)
+
 This project is a deep learning-based application for detecting fire and smoke in videos, with real-time alerting capabilities. It leverages object detection and tracking models to identify fire and smoke, and sends SMS alerts when an incident is detected.
 
 ## Features
